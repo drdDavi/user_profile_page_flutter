@@ -7,7 +7,7 @@ class AppData {
       title: 'Sarah Rodriguez',
       subtitle:
           'UI/UX Designer at GTBank & Creative Director at PxDsgn Co. Creating simple digital products over. Let’s talk designs via\n email: sgnco@gmail.com',
-      totalPost: '312',
+      totalPost: '31sss2',
       totalFollowers: '12.4m',
       totalFollowing: '13.2m',
     ),
